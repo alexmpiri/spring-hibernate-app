@@ -1,2 +1,2 @@
 # spring-hibernate-app
-Basic application using Spring and Hibernate.
+Basic implementation of a Java CRUD application using the widespread Spring and Hibernate technologies.
